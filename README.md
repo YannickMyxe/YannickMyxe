@@ -81,9 +81,6 @@ My toolkit is constantly evolving, but here are some of the technologies I frequ
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=YannickMyxe&theme=tokyonight&hide_border=true"/>
 </p>
 
-### 📅 Contribution Calendar
-<img src="https://ghchart.rshah.org/409ba5/YannickMyxe" alt="Contribution Calendar" width="100%"/>
-
 ### ⚡ Recent Activity
 <!--START_SECTION:activity-->
 <!-- TODO: Set up GitHub Actions to auto-update this section. Example: https://github.com/YannickMyxe/.github/blob/main/.github/workflows/activity-readme.yml -->
