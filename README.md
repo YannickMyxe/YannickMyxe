@@ -23,33 +23,19 @@ My toolkit is constantly evolving, but here are some of the technologies I frequ
 
 ### 💻 Programming Languages
 
-[![My Skills](https://skillicons.dev/icons?i=java,kotlin,go,rust,typescript,php,tailwind,astro&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,kotlin,go,rust,typescript,php&theme=light)](https://skillicons.dev)
 
 ### 🚀 Frameworks & Libraries
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-
-![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
-
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
-
-![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+[![My Skills](https://skillicons.dev/icons?i=vue,angular,astro&theme=light)](https://skillicons.dev)
 
 ### ☁️ Cloud & DevOps
 
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326ce5?style=for-the-badge&logo=kubernetes&logoColor=white)
+[![My Skills](https://skillicons.dev/icons?i=docker,podman&theme=light)](https://skillicons.dev)
 
 ### 🗄️ Databases
 
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+[![My Skills](https://skillicons.dev/icons?i=mongodb,postrgres&theme=light)](https://skillicons.dev)
 
 ---
 
