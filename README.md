@@ -23,19 +23,19 @@ My toolkit is constantly evolving, but here are some of the technologies I frequ
 
 ### 💻 Programming Languages
 
-[![My Skills](https://skillicons.dev/icons?i=java,kotlin,go,rust,typescript,php&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,kotlin,go,rust,typescript,php,python&theme=light)](https://skillicons.dev)
 
-### 🚀 Frameworks & Libraries
+### 🚀 Frameworks, Libraries & Tools
 
-[![My Skills](https://skillicons.dev/icons?i=vue,angular,astro&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vue,pinia,angular,astro,bun,idea,linux,rabbitmq&theme=light)](https://skillicons.dev)
 
 ### ☁️ Cloud & DevOps
 
-[![My Skills](https://skillicons.dev/icons?i=docker,podman&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=docker&theme=light)](https://skillicons.dev)
 
 ### 🗄️ Databases
 
-[![My Skills](https://skillicons.dev/icons?i=mongodb,postrgres&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=mongodb,postgres&theme=light)](https://skillicons.dev)
 
 ---
 
