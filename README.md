@@ -53,11 +53,8 @@ My toolkit is constantly evolving, but here are some of the technologies I frequ
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=YannickMyxe&theme=tokyonight&hide_border=true"/>
 </p>
----
 
 ## 🏗️ Featured Projects
-
----
 
 ## 🌐 Let's Connect & Collaborate
 
@@ -66,7 +63,6 @@ My toolkit is constantly evolving, but here are some of the technologies I frequ
 [![GitHub followers](https://img.shields.io/github/followers/YannickMyxe?style=social)](https://github.com/YannickMyxe)
 
 ---
-
 ## ☕ Support My Work
 
 <div align="center">
@@ -74,9 +70,8 @@ My toolkit is constantly evolving, but here are some of the technologies I frequ
 </div>
 
 ---
-
-  ### 🚀 "Code is poetry, and every commit tells a story"
-
+### 🚀 "Code is poetry, and every commit tells a story"
+<div align="center">
   <sub>⭐ Feel free to star any repositories you find interesting!</sub>
 </div>
 
