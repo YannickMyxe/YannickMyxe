@@ -23,15 +23,7 @@ My toolkit is constantly evolving, but here are some of the technologies I frequ
 
 ### 💻 Programming Languages
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+[![My Skills](https://skillicons.dev/icons?i=java,kotlin,go,rust,typescript,php,tailwind,astro&theme=light)](https://skillicons.dev)
 
 ### 🚀 Frameworks & Libraries
 
