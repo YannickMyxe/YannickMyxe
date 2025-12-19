@@ -46,11 +46,6 @@ My toolkit is constantly evolving, but here are some of the technologies I frequ
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YannickMyxe&layout=compact&langs_count=8&theme=tokyonight"/>
 </div>
 
-### 🏆 GitHub Achievements
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YannickMyxe&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4&row=2&column=3"/>
-</p>
-
 ### 📈 Contribution Activity
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=YannickMyxe&theme=tokyo-night&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true"/>
 
@@ -58,17 +53,11 @@ My toolkit is constantly evolving, but here are some of the technologies I frequ
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=YannickMyxe&theme=tokyonight&hide_border=true"/>
 </p>
-
-### ⚡ Recent Activity
-<!--START_SECTION:activity-->
-<!-- TODO: Set up GitHub Actions to auto-update this section. Example: https://github.com/YannickMyxe/.github/blob/main/.github/workflows/activity-readme.yml -->
-- ⚙️ Workflow `update-readme` ran on `YannickMyxe/YannickMyxe` at `2025-12-19T07:27:56Z` <!-- This is a placeholder; actual activity will be auto-generated -->
-<!--END_SECTION:activity-->
-
 ---
 
 ## 🏗️ Featured Projects
 
+---
 
 ## 🌐 Let's Connect & Collaborate
 
